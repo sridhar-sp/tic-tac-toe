@@ -2,12 +2,12 @@
 Tic-tac-toe game from markdown file.
 
 
-[![Circle Image][image-0]][cta-0] [![Circle Image][image-1]][cta-1] [![Circle Image][image-2]][cta-2]<br/>
-[![Circle Image][image-3]][cta-3] [![Circle Image][image-4]][cta-4] [![Circle Image][image-5]][cta-5]<br/>
-[![Circle Image][image-6]][cta-6] [![Circle Image][image-7]][cta-7] [![Circle Image][image-8]][cta-8]
+[![image-0]][cta-0] [![image-1]][cta-1] [![image-2]][cta-2]<br/>
+[![image-3]][cta-3] [![image-4]][cta-4] [![image-5]][cta-5]<br/>
+[![image-6]][cta-6] [![image-7]][cta-7] [![image-8]][cta-8]
 
 
- 
+
 [image-0]:  https://9b41-60-243-88-88.ngrok.io/renderCell?cellIndex=0
 [image-1]:  https://9b41-60-243-88-88.ngrok.io/renderCell?cellIndex=1
 [image-2]:  https://9b41-60-243-88-88.ngrok.io/renderCell?cellIndex=2
