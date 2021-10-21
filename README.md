@@ -6,7 +6,7 @@ Tic-tac-toe game from markdown file.
 [![image-3]][cta-3] [![image-4]][cta-4] [![image-5]][cta-5]<br/>
 [![image-6]][cta-6] [![image-7]][cta-7] [![image-8]][cta-8]
 
-
+[![play-button-image]][play-button-image-cta]
 
 [image-0]:  https://9b41-60-243-88-88.ngrok.io/renderCell?cellIndex=0
 [image-1]:  https://9b41-60-243-88-88.ngrok.io/renderCell?cellIndex=1
@@ -27,3 +27,6 @@ Tic-tac-toe game from markdown file.
 [cta-6]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=6
 [cta-7]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=7
 [cta-8]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=8
+
+[play-button-image]:  https://9b41-60-243-88-88.ngrok.io/renderPlayControls
+[play-button-image-cta]:  https://9b41-60-243-88-88.ngrok.io/clickPlayControls
