@@ -18,12 +18,12 @@ Tic-tac-toe game from markdown file.
 [image-7]:  https://9b41-60-243-88-88.ngrok.io/renderCell?cellIndex=7
 [image-8]:  https://9b41-60-243-88-88.ngrok.io/renderCell?cellIndex=8
 
-[cta-0]:  https://9b41-60-243-88-88.ngrok.io/clickCell?clickCell=0
-[cta-1]:  https://9b41-60-243-88-88.ngrok.io/clickCell?clickCell=1
-[cta-2]:  https://9b41-60-243-88-88.ngrok.io/clickCell?clickCell=2
-[cta-3]:  https://9b41-60-243-88-88.ngrok.io/clickCell?clickCell=3
-[cta-4]:  https://9b41-60-243-88-88.ngrok.io/clickCell?clickCell=4
-[cta-5]:  https://9b41-60-243-88-88.ngrok.io/clickCell?clickCell=5
-[cta-6]:  https://9b41-60-243-88-88.ngrok.io/clickCell?clickCell=6
-[cta-7]:  https://9b41-60-243-88-88.ngrok.io/clickCell?clickCell=7
-[cta-8]:  https://9b41-60-243-88-88.ngrok.io/clickCell?clickCell=8
+[cta-0]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=0
+[cta-1]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=1
+[cta-2]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=2
+[cta-3]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=3
+[cta-4]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=4
+[cta-5]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=5
+[cta-6]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=6
+[cta-7]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=7
+[cta-8]:  https://9b41-60-243-88-88.ngrok.io/clickCell?cellIndex=8
