@@ -4,7 +4,7 @@ Tic-tac-toe game from markdown file.
 
 * You are player 'X' and player 'O' is computer. 
 * Press any empty box to begin the game play or 'Let the computer play' first.
-* For every move the screen reload to render the board. Have fun.
+* For every move the screen reload to render the board. Have fun. [Read more](https://github.com/sridhar-sp/tic-tac-toe-backend#backstory)
 
 <br/>
 
