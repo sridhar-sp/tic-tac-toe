@@ -3,7 +3,7 @@ Tic-tac-toe game from markdown file.
 
 
 * You are player 'X' and player 'O' is computer. 
-* Press any empty box to begin the game play or click 'Let the computer play first' button.
+* Press any empty box to begin the game play or click 'Let computer play first' button.
 * Single game play shared with the entire internet so if you see a finished game click 'restart'. [Read more](https://github.com/sridhar-sp/tic-tac-toe-backend#backstory)
 * For every move the screen reload to render the board. Have fun.
 
