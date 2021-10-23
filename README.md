@@ -2,6 +2,11 @@
 Tic-tac-toe game from markdown file.
 
 
+* You are player 'X' and 2nd player 'O' is computer. 
+* Press any empty box to begin the game play or 'Let the computer play' first
+
+<br/>
+
 [![image-0]][cta-0] [![image-1]][cta-1] [![image-2]][cta-2]<br/>
 [![image-3]][cta-3] [![image-4]][cta-4] [![image-5]][cta-5]<br/>
 [![image-6]][cta-6] [![image-7]][cta-7] [![image-8]][cta-8]
@@ -9,7 +14,6 @@ Tic-tac-toe game from markdown file.
 [![play-button-image]][play-button-image-cta]
 
 ### Activities
-
 
 ![activities]
 
