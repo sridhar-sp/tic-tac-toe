@@ -2,8 +2,9 @@
 Tic-tac-toe game from markdown file.
 
 
-* You are player 'X' and 2nd player 'O' is computer. 
-* Press any empty box to begin the game play or 'Let the computer play' first
+* You are player 'X' and player 'O' is computer. 
+* Press any empty box to begin the game play or 'Let the computer play' first.
+* For every move the screen reload to render the board. Have fun.
 
 <br/>
 
