@@ -6,6 +6,7 @@ Tic-tac-toe game from markdown file.
 * Press any empty box to begin the game play or click 'Let computer play first' button.
 * Single game play shared with the entire internet so if you see a finished game click 'restart'. [Read more](https://github.com/sridhar-sp/tic-tac-toe-backend#backstory)
 * For every move the screen reload to render the board. Have fun.
+* ```Disclaimer: This project uses a free-tier server, so after 15 minutes of inactivity, the server goes to sleep. If you don't see the tic-tac-toe board rendered, then it means the server is sleeping. Try again in 1 minute. The server should be up and running.```
 
 <br/>
 
