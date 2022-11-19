@@ -1,6 +1,8 @@
 # Tic-tac-toe
 Tic-tac-toe game from markdown file.
 
+# Disclaimer
+### The free tier server I was using from Heroku will be discontinued on November 25, 2022. You may not see the tic-tac-toe board rendered after this. I need sometime to find another free-tier service. If you have any suggestions, please let me know.
 
 * You are player 'X' and player 'O' is computer. 
 * Press any empty box to begin the game play or click 'Let computer play first' button.
