@@ -2,7 +2,7 @@
 Tic-tac-toe game from markdown file.
 
 # Disclaimer
-### The free tier server I was using from Heroku will be discontinued on November 25, 2022. You may not see the tic-tac-toe board rendered after this. I need sometime to find another free-tier service. If you have any suggestions, please let me know.
+### I'm using a free tier cloud server for backend, since it's free tier, the server will shutdown after some amount of inactivity, so If you don't see the tic-tac-toe board rendered below, wait for a 30-45 seconds and refresh the page.
 
 * You are player 'X' and player 'O' is computer. 
 * Press any empty box to begin the game play or click 'Let computer play first' button.
